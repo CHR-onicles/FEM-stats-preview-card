@@ -28,7 +28,7 @@ body{
 }
 
 .hero{
-   background: linear-gradient(hsla(286, 100%, 30%, 50%), hsla(286, 100%, 30%, 50%)),url('../images/image-header-mobile.jpg') no-repeat center center;
+   background: linear-gradient(hsla(286, 100%, 30%, 50%), hsla(286, 100%, 30%, 50%)),url('./images/image-header-mobile.jpg') no-repeat center center;
    height: 18em;
    background-size: cover;
    border-top-right-radius: 10px;
@@ -137,7 +137,7 @@ body{
    }
 
    .hero{
-   background: linear-gradient(hsla(286, 100%, 30%, 50%), hsla(286, 100%, 30%, 50%)),url('../images/image-header-mobile.jpg') no-repeat center center;
+   background: linear-gradient(hsla(286, 100%, 30%, 50%), hsla(286, 100%, 30%, 50%)),url('./images/image-header-desktop.jpg') no-repeat center center;
    /* background: brown; */
    width: 45%;
    height: 100%;
